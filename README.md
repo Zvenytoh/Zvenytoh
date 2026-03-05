@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 Overview
-- [cite_start]🔭 **Current Role:** Full-Stack Developer Apprentice at **Kiho DEV**, building features with Angular, React, and Flutter.
-- [cite_start]🎓 **Education:** Pursuing a Bachelor's in Computer Science - **AI Specialization** at EPSI Arras.
+- [cite_start]🔭 **Current Role:** Full-Stack Developer Apprentice at **Kiho DEV**, building features with Angular, React, and Flutter[cite: 11, 12].
+- [cite_start]🎓 **Education:** Pursuing a Bachelor's in Computer Science - **AI Specialization** at EPSI Arras[cite: 37, 39].
 - [cite_start]🦀 **Learning:** Mastering **Rust** during my free time for open-source project creation[cite: 63, 64, 65].
-- [cite_start]⚡ **Infrastructure:** Experienced in managing environments via **Coolify**, **Docker**, and Linux VPS.
+- [cite_start]⚡ **Infrastructure:** Experienced in managing environments via **Coolify**, **Docker**, and Linux VPS[cite: 55].
 - [cite_start]🎵 **Fun fact:** I'm passionate about music and creative photography[cite: 66, 67].
 
 ---
