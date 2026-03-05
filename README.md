@@ -32,17 +32,12 @@
 ---
 
 ### 📂 Featured Projects
+* **VTC SaaS:** Comprehensive activity management platform for private drivers, built from scratch using **Next.js**, **Better Auth**, **Shadcn**, and **PostgreSQL**, with deployment orchestrated via **Coolify**.
 * **GameBox:** A community platform (similar to Letterboxd) for video games using **Angular** and **Java Spring**.
 * **N8N Automation:** Telegram-integrated private chef service with meal and grocery management.
 
 ---
 
-### 📊 Engineering Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zvenytoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvenytoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zvenytoh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
