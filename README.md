@@ -1,6 +1,6 @@
 <h1 align="center">Mehdi ENNAJEH</h1>
 <p align="center">
-  <strong>Développeur Full-Stack | Alternant @ Kiho DEV | Spécialisation IA @ EPSI</strong>
+  <strong>Full-Stack Developer | AI Apprentice @ Kiho DEV | Student @ EPSI Arras</strong>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 Overview
-- [cite_start]🔭 **Current Role:** Alternant développeur Full Stack chez **Kiho DEV**, travaillant sur Angular, React et Flutter[cite: 8, 11, 12].
-- [cite_start]🎓 **Education:** Bachelor Sciences Informatiques - spécialisation **Développeur IA** à l'EPSI Arras[cite: 37, 39].
-- [cite_start]🦀 **Learning:** Apprentissage du langage **Rust** pour la création de projets open source[cite: 63, 64, 65].
-- [cite_start]⚡ **Infrastructure:** Expert en déploiement via **Coolify**, **Docker** et environnements Linux VPS[cite: 55].
-- [cite_start]🎵 **Fun fact:** Passionné par la musique et la photographie[cite: 66, 67].
+- [cite_start]🔭 **Current Role:** Full-Stack Developer Apprentice at **Kiho DEV**, building features with Angular, React, and Flutter.
+- [cite_start]🎓 **Education:** Pursuing a Bachelor's in Computer Science - **AI Specialization** at EPSI Arras.
+- [cite_start]🦀 **Learning:** Mastering **Rust** during my free time for open-source project creation[cite: 63, 64, 65].
+- [cite_start]⚡ **Infrastructure:** Experienced in managing environments via **Coolify**, **Docker**, and Linux VPS.
+- [cite_start]🎵 **Fun fact:** I'm passionate about music and creative photography[cite: 66, 67].
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 ### 📂 Featured Projects
-* [cite_start]**VTC SaaS :** Gestion complète pour chauffeurs privés développée avec **Next.js**, **PostgreSQL** et **Drizzle ORM**[cite: 31, 32].
-* [cite_start]**GameBox :** Plateforme communautaire type "Letterboxd" pour les jeux vidéo (**Angular**, **Java Spring**)[cite: 25, 27].
-* [cite_start]**Automation :** Service de chef privé sur Telegram utilisant **n8n** et **PostgreSQL**[cite: 34, 35].
+* [cite_start]**VTC SaaS:** Comprehensive activity management for private drivers built with **Next.js**, **PostgreSQL**, and **Drizzle ORM**[cite: 31, 32].
+* [cite_start]**GameBox:** A community platform (similar to Letterboxd) for video games using **Angular** and **Java Spring**[cite: 25, 27].
+* [cite_start]**N8N Automation:** Telegram-integrated private chef service with meal and grocery management[cite: 34, 35].
 
 ---
 
