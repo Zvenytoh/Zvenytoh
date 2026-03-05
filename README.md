@@ -4,43 +4,43 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehdi-ennajeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medev-tech.fr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="https://linkedin.com/in/mehdi-ennajeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medev-tech.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mehdiennajehfr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
 
 ### 🚀 Overview
-- [cite_start]🔭 **Currently:** Full-Stack Apprentice building cross-platform solutions (Angular, React, Flutter, Java Spring)[cite: 11, 12, 13].
-- [cite_start]🎓 **Education:** Pursuing a Bachelor’s in CS with a focus on **AI Development**[cite: 39].
-- [cite_start]🌱 **Specializing:** Deepening my expertise in **Rust** and **TypeScript** for robust software architectures[cite: 51, 64].
-- [cite_start]🛠️ **Infrastructure:** Enthusiast of self-hosting and deployment automation using **Coolify**, **Docker**, and **n8n**[cite: 32, 55, 57].
+- <img src="https://skillicons.dev/icons?i=nextjs" height="20" /> **Current Focus:** Developing cross-platform solutions at **Kiho DEV** (Angular, Spring Boot, Flutter).
+- <img src="https://skillicons.dev/icons?i=idea" height="20" /> **Academic:** Bachelor's in CS - **AI Specialization** at **EPSI**.
+- <img src="https://skillicons.dev/icons?i=rust" height="20" /> **Side Quest:** Mastering **Rust** for performance-critical open-source tools.
+- <img src="https://skillicons.dev/icons?i=docker" height="20" /> **Infrastructure:** Self-hosting advocate using **Coolify**, **Docker**, and **n8n** automation.
 
 ---
 
-### 🛠 Technical Ecosystem
+### 🛠 Tech Stack & Tools
 
-| **Area** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | [cite_start]`Next.js` `React` `Angular` `Tailwind CSS` `TypeScript` [cite: 12, 32, 52, 53] |
-| **Backend** | [cite_start]`Java Spring` `Symfony` `Node.js` `Go` `Rust` `PHP` [cite: 13, 17, 51, 53] |
-| **Mobile** | [cite_start]`Flutter` `Dart` [cite: 12, 51, 52] |
-| **Infra & DB** | [cite_start]`PostgreSQL` `Redis` `Docker` `Coolify` `Linux VPS` `GitHub Actions` [cite: 32, 35, 54, 55] |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,rust,go,java,php,nextjs,react,angular,flutter,spring,symfony,postgres,redis,docker,linux,githubactions,figma,n8n" />
+  </a>
+</p>
 
 ---
 
 ### 📂 Featured Projects
-* [cite_start]**SaaS Management Platform:** A full-stack solution for activity management built with Next.js, PostgreSQL, and Drizzle ORM[cite: 31, 32].
-* [cite_start]**GameBox:** A community platform for video games using Angular and Java Spring[cite: 25, 27].
-* [cite_start]**Automation Services:** Telegram-integrated services powered by n8n for workflow optimization[cite: 34, 35].
+* **GameBox:** A community platform for video games (Angular & Java Spring).
+* **Automation Core:** Advanced workflow automation using n8n for professional services.
+* **SaaS Management:** A full-stack activity management tool (Next.js, PostgreSQL, Drizzle).
 
 ---
 
-### 📊 Engineering Stats
+### 📊 Engineering Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zvenytoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvenytoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zvenytoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvenytoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <em>"Driven by curiosity, building the future of software one commit at a time."</em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
