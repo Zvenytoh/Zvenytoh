@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehdiennajeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mehdi-ennajeh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medev-tech.fr/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mehdiennajehfr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
