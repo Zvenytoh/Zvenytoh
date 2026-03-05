@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 Overview
-- [cite_start]🔭 **Current Role:** Full-Stack Developer Apprentice at **Kiho DEV**, building features with Angular, React, and Flutter[cite: 11, 12].
-- [cite_start]🎓 **Education:** Pursuing a Bachelor's in Computer Science - **AI Specialization** at EPSI Arras[cite: 37, 39].
-- [cite_start]🦀 **Learning:** Mastering **Rust** during my free time for open-source project creation[cite: 63, 64, 65].
-- [cite_start]⚡ **Infrastructure:** Experienced in managing environments via **Coolify**, **Docker**, and Linux VPS[cite: 55].
-- [cite_start]🎵 **Fun fact:** I'm passionate about music and creative photography[cite: 66, 67].
+- 🔭 **Current Role:** Full-Stack Developer Apprentice at **Kiho DEV**, building features with Angular, React, and Flutter.
+- 🎓 **Education:** Pursuing a Bachelor's in Computer Science - **AI Specialization** at EPSI Arras.
+- 🦀 **Learning:** Mastering **Rust** during my free time for open-source project creation.
+- ⚡ **Infrastructure:** Experienced in managing environments via **Coolify**, **Docker**, and Linux VPS.
+- 🎵 **Fun fact:** I'm passionate about creative photography.
 
 ---
 
@@ -32,9 +32,8 @@
 ---
 
 ### 📂 Featured Projects
-* [cite_start]**VTC SaaS:** Comprehensive activity management for private drivers built with **Next.js**, **PostgreSQL**, and **Drizzle ORM**[cite: 31, 32].
-* [cite_start]**GameBox:** A community platform (similar to Letterboxd) for video games using **Angular** and **Java Spring**[cite: 25, 27].
-* [cite_start]**N8N Automation:** Telegram-integrated private chef service with meal and grocery management[cite: 34, 35].
+* **GameBox:** A community platform (similar to Letterboxd) for video games using **Angular** and **Java Spring**.
+* **N8N Automation:** Telegram-integrated private chef service with meal and grocery management.
 
 ---
 
@@ -46,10 +45,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zvenytoh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
