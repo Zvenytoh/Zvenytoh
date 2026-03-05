@@ -1,26 +1,27 @@
 <h1 align="center">Mehdi ENNAJEH</h1>
 <p align="center">
-  <strong>Full-Stack Developer Apprentice @ Kiho DEV | AI Specialization @ EPSI</strong>
+  <strong>Développeur Full-Stack | Alternant @ Kiho DEV | Spécialisation IA @ EPSI</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehdi-ennajeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medev-tech.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mehdiennajeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medev-tech.fr/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mehdiennajehfr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Rocket-Dark.svg" height="25" /> Professional Overview
-- [cite_start]<img src="https://skillicons.dev/icons?i=react" height="22" /> **Current Role:** Full-Stack Apprentice at **Kiho DEV**, developing features with Angular, React, and Flutter[cite: 11, 12].
-- [cite_start]<img src="https://skillicons.dev/icons?i=idea" height="22" /> **Academic Path:** Pursuing a Bachelor's in CS - **AI Specialization** at **EPSI Arras**.
-- [cite_start]<img src="https://skillicons.dev/icons?i=rust" height="22" /> **Ongoing Research:** Mastering **Rust** for performance-driven open-source development[cite: 63, 64].
-- [cite_start]<img src="https://skillicons.dev/icons?i=docker" height="22" /> **Infrastructure:** Deploying and managing environments via **Coolify**, **Docker**, and Linux VPS[cite: 55].
+### 🚀 Overview
+- [cite_start]🔭 **Current Role:** Alternant développeur Full Stack chez **Kiho DEV**, travaillant sur Angular, React et Flutter[cite: 8, 11, 12].
+- [cite_start]🎓 **Education:** Bachelor Sciences Informatiques - spécialisation **Développeur IA** à l'EPSI Arras[cite: 37, 39].
+- [cite_start]🦀 **Learning:** Apprentissage du langage **Rust** pour la création de projets open source[cite: 63, 64, 65].
+- [cite_start]⚡ **Infrastructure:** Expert en déploiement via **Coolify**, **Docker** et environnements Linux VPS[cite: 55].
+- [cite_start]🎵 **Fun fact:** Passionné par la musique et la photographie[cite: 66, 67].
 
 ---
 
-### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Hammer-Dark.svg" height="25" /> Tech Stack & Ecosystem
+### 🛠 Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,14 +31,14 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Code-Dark.svg" height="25" /> Highlighted Projects
-* [cite_start]**VTC SaaS:** A comprehensive activity management platform built with **Next.js**, **PostgreSQL**, and **Drizzle ORM**[cite: 31, 32].
-* [cite_start]**GameBox:** A community platform for video games utilizing **Angular**, **Java Spring**, and REST APIs[cite: 25, 27].
-* [cite_start]**n8n Automation:** Telegram-integrated services for automated meal management and grocery tracking[cite: 34, 35].
+### 📂 Featured Projects
+* [cite_start]**VTC SaaS :** Gestion complète pour chauffeurs privés développée avec **Next.js**, **PostgreSQL** et **Drizzle ORM**[cite: 31, 32].
+* [cite_start]**GameBox :** Plateforme communautaire type "Letterboxd" pour les jeux vidéo (**Angular**, **Java Spring**)[cite: 25, 27].
+* [cite_start]**Automation :** Service de chef privé sur Telegram utilisant **n8n** et **PostgreSQL**[cite: 34, 35].
 
 ---
 
-### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Chart-Dark.svg" height="25" /> Engineering Performance
+### 📊 Engineering Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zvenytoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvenytoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
