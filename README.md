@@ -1,34 +1,54 @@
-# Hi 👋, I'm Mehdi ENNAJEH 
-
-### A curious developper 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zvenytoh&label=Profile views&color=0e75b6&style=flat" alt="Zvenytoh" /> </p>
-
-- 🔭 I'm currently working on **As a Full-Stack Developer apprentice at Kiho DEV, I am building front-end and mobile features using Angular, Java/Spring, and Flutter.**
-
-- 🌱 I'm currently learning **Rust and TypeScript**
-
-- 👯 I'm looking to collaborate on **Open-source projects, particularly those where I can apply my growing knowledge of Rust.**
-
-- 🤝 I'm looking for help with **Finding a stimulating work-study position where I can tackle complex technical challenges and collaborate with a team**
-
-- 💬 Ask me about **Software design, from front-end to infrastructure. I am always happy to discuss TypeScript, Java Spring, PostgreSQL, Docker, or self-hosting with Coolify.**
-
-- 📫 How to reach me **mehdiennajehfr@gmail.com**
-
-- ⚡ Fun fact **I love music **
-
-- 👨‍💻 All of my projects are available at **[https://medev-tech.fr](https://medev-tech.fr)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing](https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Zvenytoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zvenytoh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehdi-ennajeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-ennajeh" height="30" width="40" /></a>
-<a href="https://discord.gg/mehdisyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehdisyx" height="30" width="40" /></a>
+<h1 align="center">Mehdi ENNAJEH</h1>
+<p align="center">
+  <strong>Full-Stack Developer Apprentice @ Kiho DEV | AI Specialization @ EPSI</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/symfony" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=symfony" alt="symfony" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://linkedin.com/in/mehdi-ennajeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medev-tech.fr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1_K8wCHsvahYL0XdxZNOd77qxRtLJZe_s/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+</p>
 
+---
+
+### 🚀 Overview
+- [cite_start]🔭 **Currently:** Full-Stack Apprentice building cross-platform solutions (Angular, React, Flutter, Java Spring)[cite: 11, 12, 13].
+- [cite_start]🎓 **Education:** Pursuing a Bachelor’s in CS with a focus on **AI Development**[cite: 39].
+- [cite_start]🌱 **Specializing:** Deepening my expertise in **Rust** and **TypeScript** for robust software architectures[cite: 51, 64].
+- [cite_start]🛠️ **Infrastructure:** Enthusiast of self-hosting and deployment automation using **Coolify**, **Docker**, and **n8n**[cite: 32, 55, 57].
+
+---
+
+### 🛠 Technical Ecosystem
+
+| **Area** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | [cite_start]`Next.js` `React` `Angular` `Tailwind CSS` `TypeScript` [cite: 12, 32, 52, 53] |
+| **Backend** | [cite_start]`Java Spring` `Symfony` `Node.js` `Go` `Rust` `PHP` [cite: 13, 17, 51, 53] |
+| **Mobile** | [cite_start]`Flutter` `Dart` [cite: 12, 51, 52] |
+| **Infra & DB** | [cite_start]`PostgreSQL` `Redis` `Docker` `Coolify` `Linux VPS` `GitHub Actions` [cite: 32, 35, 54, 55] |
+
+---
+
+### 📂 Featured Projects
+* [cite_start]**SaaS Management Platform:** A full-stack solution for activity management built with Next.js, PostgreSQL, and Drizzle ORM[cite: 31, 32].
+* [cite_start]**GameBox:** A community platform for video games using Angular and Java Spring[cite: 25, 27].
+* [cite_start]**Automation Services:** Telegram-integrated services powered by n8n for workflow optimization[cite: 34, 35].
+
+---
+
+### 📊 Engineering Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zvenytoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvenytoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zvenytoh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Driven by curiosity, building the future of software one commit at a time."</em>
+</p>
