@@ -3,6 +3,12 @@
   <strong>Full-Stack Developer | AI Apprentice @ Kiho DEV | Student @ EPSI Arras</strong>
 </p>
 
+<h2 align="center">Hey There! I'm Mehdi 👋</h2>
+
+<p align="center">
+  I'm a full-stack developer and AI student passionate about software architecture and infrastructure. I spend my time building robust SaaS solutions, exploring the Rust ecosystem, and streamlining complex workflows with n8n and Coolify!
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mehdi-ennajeh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medev-tech.fr/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
@@ -13,11 +19,11 @@
 ---
 
 ### 🚀 Overview
-- 🔭 **Current Role:** Full-Stack Developer Apprentice at **Kiho DEV**, building features with Angular, React, and Flutter.
-- 🎓 **Education:** Pursuing a Bachelor's in Computer Science - **AI Specialization** at EPSI Arras.
-- 🦀 **Learning:** Mastering **Rust** during my free time for open-source project creation.
-- ⚡ **Infrastructure:** Experienced in managing environments via **Coolify**, **Docker**, and Linux VPS.
-- 🎵 **Fun fact:** I'm passionate about creative photography.
+- **Professional:** Currently developing cross-platform features using **Angular**, **React**, and **Flutter** at Kiho DEV.
+- **Education:** Pursuing a Bachelor's in CS with a specialization in **Artificial Intelligence**.
+- **Current Quest:** Mastering **Rust** for high-performance and reliable open-source development.
+- **Tech Ops:** Experienced in managing Linux VPS environments and automated deployments via **Docker**.
+- **Fun fact:** I have a passion for creative photography and music.
 
 ---
 
@@ -32,9 +38,9 @@
 ---
 
 ### 📂 Featured Projects
-* **VTC SaaS:** Comprehensive activity management platform for private drivers, built from scratch using **Next.js**, **Better Auth**, **Shadcn**, and **PostgreSQL**, with deployment orchestrated via **Coolify**.
-* **GameBox:** A community platform (similar to Letterboxd) for video games using **Angular** and **Java Spring**.
-* **N8N Automation:** Telegram-integrated private chef service with meal and grocery management.
+* **VTC SaaS:** A comprehensive activity management platform for private drivers (Next.js, Better Auth, Shadcn, PostgreSQL, Coolify).
+* **GameBox:** A community platform for video games (similar to Letterboxd) using Angular and Java Spring.
+* **n8n Automation:** Telegram-integrated services for automated meal management and grocery tracking.
 
 ---
 
