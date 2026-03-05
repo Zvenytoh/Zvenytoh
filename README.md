@@ -12,15 +12,15 @@
 
 ---
 
-### 🚀 Overview
-- <img src="https://skillicons.dev/icons?i=nextjs" height="20" /> **Current Focus:** Developing cross-platform solutions at **Kiho DEV** (Angular, Spring Boot, Flutter).
-- <img src="https://skillicons.dev/icons?i=idea" height="20" /> **Academic:** Bachelor's in CS - **AI Specialization** at **EPSI**.
-- <img src="https://skillicons.dev/icons?i=rust" height="20" /> **Side Quest:** Mastering **Rust** for performance-critical open-source tools.
-- <img src="https://skillicons.dev/icons?i=docker" height="20" /> **Infrastructure:** Self-hosting advocate using **Coolify**, **Docker**, and **n8n** automation.
+### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Rocket-Dark.svg" height="25" /> Professional Overview
+- [cite_start]<img src="https://skillicons.dev/icons?i=react" height="22" /> **Current Role:** Full-Stack Apprentice at **Kiho DEV**, developing features with Angular, React, and Flutter[cite: 11, 12].
+- [cite_start]<img src="https://skillicons.dev/icons?i=idea" height="22" /> **Academic Path:** Pursuing a Bachelor's in CS - **AI Specialization** at **EPSI Arras**.
+- [cite_start]<img src="https://skillicons.dev/icons?i=rust" height="22" /> **Ongoing Research:** Mastering **Rust** for performance-driven open-source development[cite: 63, 64].
+- [cite_start]<img src="https://skillicons.dev/icons?i=docker" height="22" /> **Infrastructure:** Deploying and managing environments via **Coolify**, **Docker**, and Linux VPS[cite: 55].
 
 ---
 
-### 🛠 Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Hammer-Dark.svg" height="25" /> Tech Stack & Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,14 +30,14 @@
 
 ---
 
-### 📂 Featured Projects
-* **GameBox:** A community platform for video games (Angular & Java Spring).
-* **Automation Core:** Advanced workflow automation using n8n for professional services.
-* **SaaS Management:** A full-stack activity management tool (Next.js, PostgreSQL, Drizzle).
+### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Code-Dark.svg" height="25" /> Highlighted Projects
+* [cite_start]**VTC SaaS:** A comprehensive activity management platform built with **Next.js**, **PostgreSQL**, and **Drizzle ORM**[cite: 31, 32].
+* [cite_start]**GameBox:** A community platform for video games utilizing **Angular**, **Java Spring**, and REST APIs[cite: 25, 27].
+* [cite_start]**n8n Automation:** Telegram-integrated services for automated meal management and grocery tracking[cite: 34, 35].
 
 ---
 
-### 📊 Engineering Activity
+### <img src="https://raw.githubusercontent.com/nelson-frew/skill-icons/main/icons/Chart-Dark.svg" height="25" /> Engineering Performance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zvenytoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvenytoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
