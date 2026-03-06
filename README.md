@@ -44,6 +44,8 @@
 ---
 
 ### 📂 Featured Projects
+
+* **VTC SaaS:** A comprehensive activity management platform for private drivers (Next.js, Better Auth, Shadcn, PostgreSQL, Coolify).
 * **GameBox:** A community platform for video games (similar to Letterboxd) using Angular and Java Spring.
 * **n8n Automation:** Telegram-integrated services for automated meal management and grocery tracking.
 
