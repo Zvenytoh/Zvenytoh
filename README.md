@@ -39,7 +39,7 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,symfony,postgres,redis,supabase,drizzle,mariadb" alt="Backend & Databases" /></a><br>
 
 **DevOps, Tools & Automation**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,redhat,githubactions,selenium,figma,n8n,notion" alt="DevOps, Tools & Automation" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,redhat,githubactions,selenium,figma,notion" alt="DevOps, Tools & Automation" /></a>
 
 ---
 
