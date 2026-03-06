@@ -29,16 +29,21 @@
 
 ### 🛠 Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,rust,go,java,php,nextjs,react,angular,flutter,spring,symfony,postgres,redis,docker,linux,githubactions,figma,n8n" />
-  </a>
-</p>
+**Languages**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,rust,go,java,php,python" alt="Languages" /></a><br>
+
+**Frontend & Mobile**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,angular,flutter,tailwind" alt="Frontend & Mobile" /></a><br>
+
+**Backend & Databases**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,symfony,postgres,redis,supabase,drizzle" alt="Backend & Databases" /></a><br>
+
+**DevOps, Tools & Automation**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions,figma,n8n" alt="DevOps, Tools & Automation" /></a>
 
 ---
 
 ### 📂 Featured Projects
-* **VTC SaaS:** A comprehensive activity management platform for private drivers (Next.js, Better Auth, Shadcn, PostgreSQL, Coolify).
 * **GameBox:** A community platform for video games (similar to Letterboxd) using Angular and Java Spring.
 * **n8n Automation:** Telegram-integrated services for automated meal management and grocery tracking.
 
