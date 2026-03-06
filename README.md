@@ -30,16 +30,16 @@
 ### 🛠 Tech Stack & Tools
 
 **Languages**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,rust,go,java,php,python" alt="Languages" /></a><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,rust,go,java,php,python,dart" alt="Languages" /></a><br>
 
 **Frontend & Mobile**<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,angular,flutter,tailwind" alt="Frontend & Mobile" /></a><br>
 
 **Backend & Databases**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,symfony,postgres,redis,supabase,drizzle" alt="Backend & Databases" /></a><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,symfony,postgres,redis,supabase,drizzle,mariadb" alt="Backend & Databases" /></a><br>
 
 **DevOps, Tools & Automation**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions,figma,n8n" alt="DevOps, Tools & Automation" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,redhat,githubactions,selenium,figma,n8n,notion" alt="DevOps, Tools & Automation" /></a>
 
 ---
 
